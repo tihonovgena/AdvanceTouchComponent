@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.2",
+	"FriendlyName": "Advance Touch Controllers",
+	"Description": "Expands touch functionality by adding accessible and understandable controllers.",
+	"Category": "",
+	"CreatedBy": "Tikhonov Gennadii",
+	"CreatedByURL": "https://www.tikhonov22.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"PlatformAllowList": [ 
+		"Win64", 
+		"Win32", 
+		"Mac", 
+		"IOS", 
+		"Android" 
+	],
+	"Modules": [
+		{
+			"Name": "AdvanceTouchControllers",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
